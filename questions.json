@@ -1,0 +1,527 @@
+{
+  "beginner": [
+  {
+    "id": 1,
+    "question": "_ is a cat under the table.",
+    "options": {
+      "A": "They",
+      "B": "There",
+      "C": "Their",
+      "D": "These"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 2,
+    "question": "I _ a student, and my friend _ a teacher.",
+    "options": {
+      "A": "am / are",
+      "B": "is / am",
+      "C": "am / is",
+      "D": "are / is"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 3,
+    "question": "They _ got a big house in the village.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "are",
+      "D": "do"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 4,
+    "question": "_ is your favorite color?",
+    "options": {
+      "A": "Who",
+      "B": "Where",
+      "C": "When",
+      "D": "What"
+    },
+    "correct_answer": "D",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 5,
+    "question": "My father _ to work by car every day.",
+    "options": {
+      "A": "go",
+      "B": "going",
+      "C": "goes",
+      "D": "to go"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 6,
+    "question": "Listen! Someone _ the piano upstairs.",
+    "options": {
+      "A": "plays",
+      "B": "played",
+      "C": "is playing",
+      "D": "play"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 7,
+    "question": "I didn't buy _ apples at the market yesterday.",
+    "options": {
+      "A": "some",
+      "B": "a",
+      "C": "much",
+      "D": "any"
+    },
+    "correct_answer": "D",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 8,
+    "question": "What _ your parents do?",
+    "options": {
+      "A": "does",
+      "B": "do",
+      "C": "are",
+      "D": "is"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 9,
+    "question": "The train arrives _ 6:30 PM.",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "at",
+      "D": "to"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 10,
+    "question": "He _ swim very well when he was five years old.",
+    "options": {
+      "A": "can",
+      "B": "could",
+      "C": "cans",
+      "D": "is able"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 11,
+    "question": "We _ watch TV in the morning because we are busy.",
+    "options": {
+      "A": "doesn't",
+      "B": "aren't",
+      "C": "don't",
+      "D": "isn't"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 12,
+    "question": "That is _ umbrella. It's raining outside.",
+    "options": {
+      "A": "a",
+      "B": "an",
+      "C": "two",
+      "D": "any"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 13,
+    "question": "Where are my keys? — They are _ your bag.",
+    "options": {
+      "A": "in",
+      "B": "between",
+      "C": "at",
+      "D": "from"
+    },
+    "correct_answer": "A",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 14,
+    "question": "Can you _ English?",
+    "options": {
+      "A": "speaks",
+      "B": "speaking",
+      "C": "to speak",
+      "D": "speak"
+    },
+    "correct_answer": "D",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 15,
+    "question": "_ are my shoes right here.",
+    "options": {
+      "A": "This",
+      "B": "That",
+      "C": "These",
+      "D": "It"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 16,
+    "question": "How _ milk do we need for the cake?",
+    "options": {
+      "A": "many",
+      "B": "much",
+      "C": "some",
+      "D": "any"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 17,
+    "question": "My brother _ his homework every evening after dinner.",
+    "options": {
+      "A": "do",
+      "B": "doing",
+      "C": "does",
+      "D": "is do"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 18,
+    "question": "We _ to Samarkand last summer.",
+    "options": {
+      "A": "go",
+      "B": "gone",
+      "C": "went",
+      "D": "going"
+    },
+    "correct_answer": "C",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 19,
+    "question": "She is _ than her younger sister.",
+    "options": {
+      "A": "tall",
+      "B": "tallest",
+      "C": "more tall",
+      "D": "taller"
+    },
+    "correct_answer": "D",
+    "points": 2,
+    "active": true
+  },
+  {
+    "id": 20,
+    "question": "Where _ you born?",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "did",
+      "D": "are"
+    },
+    "correct_answer": "B",
+    "points": 2,
+    "active": true
+  }
+],
+  "intermediate": [
+  {
+    "id": 1,
+    "question": "If I _ about the traffic jam earlier, I would have taken the subway.",
+    "options": {
+      "A": "knew",
+      "B": "had known",
+      "C": "would know",
+      "D": "have known"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 2,
+    "question": "By next month, they _ the construction of the new bridge.",
+    "options": {
+      "A": "will finish",
+      "B": "will be finishing",
+      "C": "will have finished",
+      "D": "are finishing"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 3,
+    "question": "I can't get used _ on the left side of the road since I moved to London.",
+    "options": {
+      "A": "to drive",
+      "B": "driving",
+      "C": "to driving",
+      "D": "drive"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 4,
+    "question": "The report, _ was published yesterday, highlights several economic risks.",
+    "options": {
+      "A": "that",
+      "B": "which",
+      "C": "who",
+      "D": "what"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 5,
+    "question": "Hardly _ the house when it started pouring with rain.",
+    "options": {
+      "A": "I had left",
+      "B": "had I left",
+      "C": "I left",
+      "D": "did I left"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 6,
+    "question": "She denied _ any confidential information to the competitors.",
+    "options": {
+      "A": "to leak",
+      "B": "leak",
+      "C": "having leaked",
+      "D": "to have leaked"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 7,
+    "question": "You look exhausted. You _ all night again.",
+    "options": {
+      "A": "must have been working",
+      "B": "should have worked",
+      "C": "can't have worked",
+      "D": "would have worked"
+    },
+    "correct_answer": "A",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 8,
+    "question": "It’s high time the government _ stricter measures against air pollution.",
+    "options": {
+      "A": "takes",
+      "B": "took",
+      "C": "has taken",
+      "D": "will take"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 9,
+    "question": "Not only _ the deadline, but the quality of the work was also poor.",
+    "options": {
+      "A": "they missed",
+      "B": "did they miss",
+      "C": "they did miss",
+      "D": "missed they"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 10,
+    "question": "Despite _ thoroughly for the interview, he felt extremely nervous.",
+    "options": {
+      "A": "he prepared",
+      "B": "of preparing",
+      "C": "preparing",
+      "D": "to prepare"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 11,
+    "question": "If I _ time tomorrow, I will help you with your project.",
+    "options": {
+      "A": "have",
+      "B": "will have",
+      "C": "had",
+      "D": "would have"
+    },
+    "correct_answer": "A",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 12,
+    "question": "I _ in this city for five years, and I still love it.",
+    "options": {
+      "A": "live",
+      "B": "am living",
+      "C": "have lived",
+      "D": "lived"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 13,
+    "question": "She suggested _ to the new Italian restaurant downtown.",
+    "options": {
+      "A": "go",
+      "B": "to go",
+      "C": "going",
+      "D": "goes"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 14,
+    "question": "This book is much _ than the one I read last week.",
+    "options": {
+      "A": "interesting",
+      "B": "more interesting",
+      "C": "most interesting",
+      "D": "interested"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 15,
+    "question": "While I _ dinner, the phone rang.",
+    "options": {
+      "A": "cook",
+      "B": "cooked",
+      "C": "was cooking",
+      "D": "have cooked"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 16,
+    "question": "You _ smoke in the hospital. It is strictly forbidden.",
+    "options": {
+      "A": "don't have to",
+      "B": "mustn't",
+      "C": "shouldn't",
+      "D": "needn't"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 17,
+    "question": "English _ in many countries all over the world.",
+    "options": {
+      "A": "speaks",
+      "B": "is spoken",
+      "C": "spoke",
+      "D": "is speaking"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 18,
+    "question": "I'm looking forward to _ you at the conference next week.",
+    "options": {
+      "A": "see",
+      "B": "seeing",
+      "C": "saw",
+      "D": "be seen"
+    },
+    "correct_answer": "B",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 19,
+    "question": "He asked me where _ .",
+    "options": {
+      "A": "do I live",
+      "B": "I live",
+      "C": "did I live",
+      "D": "I lived"
+    },
+    "correct_answer": "D",
+    "points": 5,
+    "active": true
+  },
+  {
+    "id": 20,
+    "question": "By the time we arrived at the station, the train _ .",
+    "options": {
+      "A": "left",
+      "B": "has left",
+      "C": "had left",
+      "D": "was leaving"
+    },
+    "correct_answer": "C",
+    "points": 5,
+    "active": true
+  }
+],
+  "note": "DEMO BANK: Replace these sample questions with the exact Nova West LC question sets before publishing."
+}
